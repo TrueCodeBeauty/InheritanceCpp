@@ -37,7 +37,13 @@ public:
 
 int main()
 {
-
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
+	std::cout << "ANANI SIKEYIM OROSPUEVLADI\n";
 
 	system("pause>0");
 }
